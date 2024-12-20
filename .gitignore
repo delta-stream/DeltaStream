@@ -1,0 +1,11 @@
+cmake-build-debug
+cmake-build-*/
+cmake-build-default
+libs/*
+CMakeFiles
+images
+build
+output
+.vscode
+.idea
+CMakeUserPresets.json

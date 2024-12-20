@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "name": "deltastream",
+  "dependencies": [
+    "boost-asio",
+    "boost-lockfree",
+    "ffmpeg",
+    {
+      "name": "draco",
+      "version>=": "1.5.7"
+    }
+  ]
+}
