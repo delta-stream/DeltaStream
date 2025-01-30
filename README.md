@@ -4,11 +4,6 @@
   <img src="https://github.com/user-attachments/assets/b8cb1ed1-82bb-48f7-b439-09991be9dc59" />
 </p>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-> Demo video coming soon
-
 ### OS Support
 DeltaStream supports the following operating systems:
 - Ubuntu 20.04
